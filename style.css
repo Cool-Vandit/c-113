@@ -1,0 +1,20 @@
+ canvas {
+     border: 6px solid black ;
+     border-radius: 8px;
+ }
+
+ .myButn {
+     margin-top: 450px;
+     font-size: 20px;
+     background-color: darkkhaki;
+     border-radius: 10px;
+ }
+
+ .headings {
+     font-size: 24px;
+     text-align: center;
+     color: brown;
+     width: 100%;
+     font-weight: 900;
+     font-style: inherit;
+ }
